@@ -1,0 +1,1 @@
+This is a project for Form Validation. I had so much fun especially when I encounted issues with displaying the success message when the form successfully submits and reloads the DOM.
